@@ -26,7 +26,7 @@ Making software Findable, Accessible, Interoperable, and Reusable (FAIR) can be 
 ## Meeting material
 
 Talk:
-- [USRSE25-Talk-Codefair.pdf](USRSE25-Talk-Codefair.pdf): slides of our talk, also available on Zenodo at [ADD] 
+- [USRSE25-Talk-Codefair.pdf](USRSE25-Talk-Codefair.pdf): slides of our talk, also available on Zenodo at https://doi.org/10.5281/zenodo.17268745
 - [USRSE25-Abtract-Codefair.pdf](USRSE25-Abtract-Codefair.pdf): Long abstract submitted for for our talk.
 
 
